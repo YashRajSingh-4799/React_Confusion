@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <Navbar dark color="primary">
         <div className="container">
-          <NavbarBrand href="/">Navbar Of The Project</NavbarBrand>
+          <NavbarBrand href="/">Navbar Of The React-JS Projects</NavbarBrand>
         </div>
       </Navbar>
     </div>
